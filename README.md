@@ -6,5 +6,3 @@ tomcat 7.0.42
 this project needs libraries:
 -mysql-connector-java-5.1.23-bin.jar
 -jstl-1.2.jarlog4j-1.2.17.jarjavax.servlet-api.3.0.1.jar
-
-user in my pc is windows 8. so author automaticlly put that username but it is my own  
